@@ -1,5 +1,5 @@
 # old-bot-squarefood-1-management
-These are my Javascript bots for my foodbot support server
+This is one of my Javascript bots for my foodbot support server
 
 Hello! This is one of my old bots. Anyway, let me explain!
 
